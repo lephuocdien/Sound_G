@@ -2,16 +2,23 @@
   "sutras": [
     {
       "id": "1",
-      "title": "Kinh Sư Tử Hống",
+      "title": "Sống lương thiện, đời khác sẽ bình an",
       "teacher": "Thích Pháp Hòa",
-      "audioUrl": "https://ph.tinhtong.vn/ftp3/MP3/-%20T%20Phap%20Hoa/T%20Phap%20Hoa%20-%20001%20-%20050/002%20Kinh%20S%C6%B0%20T%E1%BB%AD%20H%E1%BB%91ng%20~%20002_.mp3",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThichPhapHoa/chi-can-song-luong-thien-doi-khac-se-binh-an.mp3",
       "durationSeconds": 0
     },
     {
       "id": "2",
-      "title": "Tứ Hoằng Thệ Nguyện",
+      "title": "Chồng hay cáu gắt, nông nỗi này phải làm sao?",
       "teacher": "Thích Pháp Hòa",
-      "audioUrl": "https://ph.tinhtong.vn/ftp3/MP3/-%20T%20Phap%20Hoa/T%20Phap%20Hoa%20-%20001%20-%20050/010%20T%E1%BB%A9%20Ho%E1%BA%B1ng%20Th%E1%BB%87%20Nguy%E1%BB%87n%20~%20010_.mp3",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThichPhapHoa/chong-hay-cau-gat-nong-nay-phai-lam-sao.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "3",
+      "title": "Có duyên làm đôi này mới gặp nhau",
+      "teacher": "Thích Pháp Hòa",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThichPhapHoa/co-duyen-lam-doi-nay-moi-gap-nhau-thay-thich-phap-hoa-1.mp3",
       "durationSeconds": 0
     }
   ]
