@@ -1,0 +1,18 @@
+{
+  "sutras": [
+    {
+      "id": "1",
+      "title": "Kinh Sư Tử Hống",
+      "teacher": "Thích Pháp Hòa",
+      "audioUrl": "https://ph.tinhtong.vn/ftp3/MP3/-%20T%20Phap%20Hoa/T%20Phap%20Hoa%20-%20001%20-%20050/002%20Kinh%20S%C6%B0%20T%E1%BB%AD%20H%E1%BB%91ng%20~%20002_.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "2",
+      "title": "Tứ Hoằng Thệ Nguyện",
+      "teacher": "Thích Pháp Hòa",
+      "audioUrl": "https://ph.tinhtong.vn/ftp3/MP3/-%20T%20Phap%20Hoa/T%20Phap%20Hoa%20-%20001%20-%20050/010%20T%E1%BB%A9%20Ho%E1%BA%B1ng%20Th%E1%BB%87%20Nguy%E1%BB%87n%20~%20010_.mp3",
+      "durationSeconds": 0
+    }
+  ]
+}
