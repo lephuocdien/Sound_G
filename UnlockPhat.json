@@ -8,5 +8,31 @@
     {"deityId":"PhoHien","displayName":"Bồ Tát Phổ Hiền","buttonObjectName":"PhoHien","requiredMerit":360}
   ],
   "ngheKinhNhangReward": 3,
-  "ngheKinhMinListenSeconds": 120
+  "ngheKinhMinListenSeconds": 120,
+  "buddhistEvents": [
+    {
+      "id": "phat_dan_2026",
+      "date": "2026-05-31",
+      "title": "Phật Đản - Tắm Phật",
+      "body": "Kính mừng ngày Đức Phật đản sinh. Hôm nay rất đặc biệt, hãy mở app và thắp nhang."
+    },
+    {
+      "id": "vu_lan_2026",
+      "date": "2026-08-27",
+      "title": "Vu Lan Báo Hiếu",
+      "body": "Rằm tháng 7 - mùa Vu Lan. Hướng tâm về cha mẹ với lòng biết ơn sâu sắc."
+    },
+    {
+      "id": "thanh_dao_2027",
+      "date": "2027-01-15",
+      "title": "Lễ Thành Đạo",
+      "body": "Kỷ niệm ngày Đức Phật thành đạo dưới cội Bồ Đề. Một ngày để tịnh tâm suy ngẫm."
+    },
+    {
+      "id": "niet_ban_2027",
+      "date": "2027-03-22",
+      "title": "Đức Phật nhập Niết Bàn",
+      "body": "Hôm nay tưởng niệm ngày Đức Phật nhập Niết Bàn. Thắp một nén nhang kính lễ Ngài."
+    }
+  ]
 }
