@@ -1,11 +1,11 @@
 {
   "unlockEntries": [
     {"deityId":"PhatThichCa","displayName":"Phật Thích Ca","buttonObjectName":"ThichCa","requiredMerit":0},
-    {"deityId":"QuanAm","displayName":"Bồ Tát Quan Âm","buttonObjectName":"QuanAm","requiredMerit":40},
-    {"deityId":"DiLac","displayName":"Phật Di Lặc","buttonObjectName":"DiLac","requiredMerit":90},
-    {"deityId":"DiaTang","displayName":"Bồ Tát Địa Tạng","buttonObjectName":"DiaTang","requiredMerit":160},
-    {"deityId":"VanThu","displayName":"Bồ Tát Văn Thù","buttonObjectName":"VanThu","requiredMerit":250},
-    {"deityId":"PhoHien","displayName":"Bồ Tát Phổ Hiền","buttonObjectName":"PhoHien","requiredMerit":360}
+    {"deityId":"QuanAm","displayName":"Bồ Tát Quan Âm","buttonObjectName":"QuanAm","requiredMerit":20},
+    {"deityId":"DiLac","displayName":"Phật Di Lặc","buttonObjectName":"DiLac","requiredMerit":60},
+    {"deityId":"DiaTang","displayName":"Bồ Tát Địa Tạng","buttonObjectName":"DiaTang","requiredMerit":130},
+    {"deityId":"VanThu","displayName":"Bồ Tát Văn Thù","buttonObjectName":"VanThu","requiredMerit":240},
+    {"deityId":"PhoHien","displayName":"Bồ Tát Phổ Hiền","buttonObjectName":"PhoHien","requiredMerit":400}
   ],
   "ngheKinhNhangReward": 3,
   "ngheKinhMinListenSeconds": 120,
