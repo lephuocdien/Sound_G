@@ -573,6 +573,468 @@
       "teacher": "Đức Đạt Lai Lạt Ma",
       "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/DatLaiLatMa/vet_bot_vet_tram.mp3",
       "durationSeconds": 0
+    },
+    {
+      "id": "83",
+      "title": "3 điều kiêng kỵ Tết",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/3_dieu_kieng_ky_tet.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "84",
+      "title": "5 đặc điểm của người cực kỳ thông minh",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/5_dac_diem_cua_nguoi_cuc_ky_thong_minh.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "85",
+      "title": "Ai cũng có thể giác ngộ",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/ai_cung_co_the_giac_ngo.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "86",
+      "title": "Ai đang ăn chay một lần phước báu rất lớn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/ai_dang_an_chay_1_lan_phuoc_bau_rat_lon.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "87",
+      "title": "Ăn chay đúng cách",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/an_chay_dung_cach.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "88",
+      "title": "Bài giảng hay nhất 2026 về vô thường",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/bai_giang_hay_nhat_2026_ve_vo_thuong.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "89",
+      "title": "Bạn đang ở cấp độ hạnh phúc nào",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/ban_dang_o_cap_do_hanh_phuc_nao.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "90",
+      "title": "Biết buông người thân",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/biet_buong_nguoi_than.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "91",
+      "title": "Biết chịu đựng",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/biet_chiu_dung.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "92",
+      "title": "Biết thương mình",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/biet_thuong_minh.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "93",
+      "title": "Bình thản trước khen chê",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/binh_than_truoc_khen_che.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "94",
+      "title": "Bớt suy nghĩ, sống an nhiên",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/bot_suy_nghi_song_an_nhien.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "95",
+      "title": "Buông bỏ cái tôi, bạn sẽ hạnh phúc hơn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/buong_bo_cai_toi_ban_se_hanh_phuc_hon.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "96",
+      "title": "Buông bỏ quá khứ",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/buong_bo_qua_khu.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "97",
+      "title": "Buông bớt cho nhẹ đời",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/buong_bot_cho_nhe_doi.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "98",
+      "title": "Buông bớt kỳ vọng",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/buong_bot_ky_vong.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "99",
+      "title": "Bứt phá giới hạn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/but_pha_gioi_han.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "100",
+      "title": "Cách mở vận may đón năm mới 2026",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/cach_mo_van_may_don_nam_moi_2026.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "101",
+      "title": "Cách yêu đúng",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/cach_yeu_dung.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "102",
+      "title": "Càng im lặng, cuộc đời càng bình an",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/cang_im_lang_cuoc_doi_cang_binh_an.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "103",
+      "title": "Càng ít quan tâm, càng sống hạnh phúc",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/cang_it_quan_tam_cang_song_hanh_phuc.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "104",
+      "title": "Càng ít quan tâm, càng sống hạnh phúc 2",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/cang_it_quan_tam_cang_song_hanh_phuc_2.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "105",
+      "title": "Chấp nhận không hoàn hảo",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/chap_nhan_khong_hoan_hao.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "106",
+      "title": "Chịu khổ là đang trả hết nghiệp",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/chiu_kho_la_dang_tra_het_nghiep.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "107",
+      "title": "Chữa lành tình yêu",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/chua_lanh_tinh_yeu.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "108",
+      "title": "Con nợ cha mẹ",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/con_no_cha_me.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "109",
+      "title": "Còn sống ngày nào, hãy vui ngày đó",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/con_song_ngay_nao_hay_vui_ngay_do.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "110",
+      "title": "Cuối năm tạo phước báu",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/cuoi_nam_tao_phuoc_bau.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "111",
+      "title": "Cuối năm yêu thương bản thân",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/cuoi_nam_yeu_thuong_ban_than.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "112",
+      "title": "Để cuộc đời tự sắp xếp",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/de_cuoc_doi_tu_sap_xep.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "113",
+      "title": "Đêm giao thừa bình an",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dem_giao_thua_binh_an.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "114",
+      "title": "Điều thuộc về bạn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dieu_thuoc_ve_ban.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "115",
+      "title": "Đôi khi mất đi lại là may mắn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/doi_khi_mat_di_lai_la_may_man.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "116",
+      "title": "Đối mặt trầm cảm",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/doi_mat_tram_cam.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "117",
+      "title": "Đủ duyên đừng cố",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/du_duyen_dung_co.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "118",
+      "title": "Đừng chấp vào lời nói của bất kỳ ai",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_chap_vao_loi_noi_cua_bat_ky_ai.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "119",
+      "title": "Đừng để người khác biết nhiều về bạn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_de_nguoi_khac_biet_nhieu_ve_ban.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "120",
+      "title": "Đừng hơn thua",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_hon_thua.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "121",
+      "title": "Đừng kỳ vọng vào bất kỳ ai",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_ki_vong_vao_bat_ki_ai.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "122",
+      "title": "Đừng làm hài lòng người khác",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_lam_hai_long_nguoi_khac.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "123",
+      "title": "Đừng nặng lòng với điều không như ý",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_nang_long_voi_dieu_khong_nhu_y.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "124",
+      "title": "Đừng nặng lòng với những gì không như ý",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_nang_long_voi_nhung_gi_khong_nhu_y.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "125",
+      "title": "Đừng sống để làm hài lòng người khác",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/dung_song_de_lam_hai_long_nguoi_khac.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "126",
+      "title": "Giải thoát khổ đau",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/giai_thoat_kho_dau.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "127",
+      "title": "Hạnh phúc là lựa chọn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hanh_phuc_la_lua_chon.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "128",
+      "title": "Hạnh phúc nằm trong tầm tay bạn",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hanh_phuc_nam_trong_tam_tay_ban.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "129",
+      "title": "Hạnh phúc từ trong tâm",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hanh_phuc_tu_trong_tam.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "130",
+      "title": "Hành trình vượt qua bản ngã",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hanh_trinh_vuot_qua_ban_nga.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "131",
+      "title": "Hãy giữ bình tĩnh trước mọi tình huống",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hay_giu_binh_tinh_truoc_moi_tinh_huong.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "132",
+      "title": "Hãy mỉm cười dù đời đầy giông bão",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hay_mim_cuoi_du_doi_day_giong_bao.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "133",
+      "title": "Hết duyên, hết nợ",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/het_duyen_het_no.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "134",
+      "title": "Hết năm nhẹ lòng",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/het_nam_nhe_long.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "135",
+      "title": "Hiểu được điều này giúp tâm bớt khổ",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hieu_duoc_dieu_nay_giup_tam_bot_kho.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "136",
+      "title": "Hóa giải giận dỗi",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hoa_giai_gian_doi.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "137",
+      "title": "Học cách cho đi",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hoc_cach_cho_di.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "138",
+      "title": "Học cách đứng vững giữa đời vô thường",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hoc_cach_dung_vung_giua_doi_vo_thuong.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "139",
+      "title": "Học cách giữ tâm không nóng giận",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hoc_cach_giu_tam_khong_nong_gian.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "140",
+      "title": "Học cách hạ mình, không hơn thua",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hoc_cach_ha_minh_khong_hon_thua.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "141",
+      "title": "Học cách tha thứ để quá khứ ở lại",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/hoc_cach_tha_thu_de_qua_khu_o_lai.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "142",
+      "title": "Im lặng để yên nhà, trong ấm ngoài êm",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/im_lang_de_yen_nha_trong_am_ngoai_em.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "143",
+      "title": "Im lặng và lắng nghe",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/im_lang_va_lang_nghe.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "144",
+      "title": "Kết nối chính mình",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/ket_noi_chinh_minh.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "145",
+      "title": "Khi không còn đi chung một con đường",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/khi_khong_con_di_chung_mot_con_duong.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "146",
+      "title": "Khi tâm đổi, vận mệnh sẽ đổi",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/khi_tam_doi_van_menh_se_doi.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "147",
+      "title": "Khổ đau và trưởng thành",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/kho_dau_va_truong_thanh.mp3",
+      "durationSeconds": 0
+    },
+    {
+      "id": "148",
+      "title": "Không bị ảnh hưởng",
+      "teacher": "Thích Minh Niệm",
+      "audioUrl": "https://pub-39bf0278fb0e4f4da2260a77855b93c6.r2.dev/ThayMinhNiem/khong_bi_anh_huong.mp3",
+      "durationSeconds": 0
     }
   ]
 }
