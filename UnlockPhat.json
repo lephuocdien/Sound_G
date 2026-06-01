@@ -7,8 +7,14 @@
     {"deityId":"VanThu","displayName":"Bồ Tát Văn Thù","buttonObjectName":"VanThu","requiredMerit":240},
     {"deityId":"PhoHien","displayName":"Bồ Tát Phổ Hiền","buttonObjectName":"PhoHien","requiredMerit":400}
   ],
-  "ngheKinhNhangReward": 3,
   "ngheKinhMinListenSeconds": 120,
+  "ngheKinhReward": {
+    "partialPhucDuyen": 3,
+    "fullPhucDuyen": 5,
+    "fullNhang": 1,
+    "dailyCapPhucDuyen": 15,
+    "dailyCapNhang": 2
+  },
   "buddhistEvents": [
     {
       "id": "phat_dan_2026",
