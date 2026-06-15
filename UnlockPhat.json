@@ -15,6 +15,9 @@
     "dailyCapPhucDuyen": 15,
     "dailyCapNhang": 2
   },
+  "startingIncense": 3,
+  "dailyFreeIncense": 1,
+  "incenseBurnReward": 1,
   "buddhistEvents": [
     {
       "id": "phat_dan_2026",
