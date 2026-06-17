@@ -10,7 +10,7 @@
   "ios": {
     "latestVersion": "1.0.5",
     "minimumVersion": "0.0.2",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "storeUrl": "itms-beta://",
     "title": "Co ban cap nhat moi",
     "message": "Da co phien ban moi. Ban co muon cap nhat ngay bay gio khong?"
