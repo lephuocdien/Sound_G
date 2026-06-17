@@ -1,6 +1,6 @@
 {
   "android": {
-    "latestVersion": "1.0.2",
+    "latestVersion": "1.0.5",
     "minimumVersion": "0.0.2",
     "forceUpdate": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.taman.app",
@@ -8,8 +8,8 @@
     "message": "Da co phien ban moi. Ban co muon cap nhat ngay bay gio khong?"
   },
   "ios": {
-    "latestVersion": "1.0.1",
-    "minimumVersion": "1.0.0",
+    "latestVersion": "1.0.5",
+    "minimumVersion": "0.0.2",
     "forceUpdate": false,
     "storeUrl": "itms-beta://",
     "title": "Co ban cap nhat moi",
