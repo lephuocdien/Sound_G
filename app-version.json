@@ -4,15 +4,15 @@
     "minimumVersion": "0.0.2",
     "forceUpdate": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.taman.app",
-    "title": "Co ban cap nhat moi",
-    "message": "Da co phien ban moi. Ban co muon cap nhat ngay bay gio khong?"
+    "title": "Có bản cập nhật mới",
+    "message": "Đã có phiên bản mới. Vui lòng cập nhật phiên bản mới!"
   },
   "ios": {
-    "latestVersion": "1.0.5",
+    "latestVersion": "1.0.7",
     "minimumVersion": "0.0.2",
     "forceUpdate": true,
-    "storeUrl": "itms-beta://",
-    "title": "Co ban cap nhat moi",
-    "message": "Da co phien ban moi. Ban co muon cap nhat ngay bay gio khong?"
+    "storeUrl": "https://apps.apple.com/us/app/t%C3%A2m-an/id6780956052",
+    "title": "Có bản cập nhật mới",
+    "message": "Đã có phiên bản mới. Vui lòng cập nhật phiên bản mới!"
   }
 }
