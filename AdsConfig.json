@@ -1,8 +1,10 @@
 {
   "android": {
-    "bannerEnabled": true
+    "bannerEnabled": true,
+    "useTestAds": true
   },
   "ios": {
-    "bannerEnabled": true
+    "bannerEnabled": true,
+    "useTestAds": true
   }
 }
