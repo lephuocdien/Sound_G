@@ -1,0 +1,8 @@
+{
+  "android": {
+    "bannerEnabled": true
+  },
+  "ios": {
+    "bannerEnabled": true
+  }
+}
