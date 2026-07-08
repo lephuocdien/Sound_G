@@ -1,10 +1,38 @@
 {
   "android": {
     "bannerEnabled": true,
-    "useTestAds": true
+    "useTestAds": true,
+    "screens": [
+      {
+        "id": "NgheKinhScreen",
+        "bannerEnabled": true
+      },
+      {
+        "id": "NgheKinhTeacherScreen",
+        "bannerEnabled": false
+      },
+      {
+        "id": "NhacThienNgu",
+        "bannerEnabled": true
+      }
+    ]
   },
   "ios": {
     "bannerEnabled": true,
-    "useTestAds": true
+    "useTestAds": true,
+    "screens": [
+      {
+        "id": "NgheKinhScreen",
+        "bannerEnabled": true
+      },
+      {
+        "id": "NgheKinhTeacherScreen",
+        "bannerEnabled": false
+      },
+      {
+        "id": "NhacThienNgu",
+        "bannerEnabled": true
+      }
+    ]
   }
 }
