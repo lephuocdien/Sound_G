@@ -1,7 +1,7 @@
 {
   "android": {
     "bannerEnabled": true,
-    "useTestAds": true,
+    "useTestAds": false,
     "screens": [
       {
         "id": "NgheKinhScreen",
@@ -19,7 +19,7 @@
   },
   "ios": {
     "bannerEnabled": true,
-    "useTestAds": true,
+    "useTestAds": false,
     "screens": [
       {
         "id": "NgheKinhScreen",
